@@ -1,2 +1,3 @@
-# GoldBadgeChallenges
-Hi! This is my test commit to make sure I can submit the assignment. I WILL be submitting again, but with the previous issues I have had with Canvas I thought I'd better try one before the due date and time.
+# GoldBadgeChallenges1
+Hello!
+I think I finally have everything properly committed! For some reason in the other respository it was only updating some of the challenges instead of all three. I decied to simply make a new repository and push everything, so fingers crossed everything is here!
